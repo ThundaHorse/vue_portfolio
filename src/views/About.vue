@@ -1,5 +1,19 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>About Me</h1>
   </div>
 </template>
+
+<style>
+</style>
+
+<script>
+export default {
+  name: "about",
+  data: function() {
+    return {};
+  },
+  created: function() {},
+  methods: {}
+};
+</script>
