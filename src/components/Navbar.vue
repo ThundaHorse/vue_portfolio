@@ -25,6 +25,9 @@
             <router-link class="nav-link" to="/about">About Me</router-link>
           </li>
           <li class="nav-item">
+            <router-link class="nav-link" to="/projects">Projects</router-link>
+          </li>
+          <li class="nav-item">
             <a class="nav-link" href="https://github.com/ThundaHorse">Github</a>
           </li>
           <li class="nav-item">
